@@ -10,7 +10,7 @@ A compact discrete H-bridge for driving a brushed DC motor. The design uses comp
 - BC547 transistor stages driven through 10 kOhm input resistors
 - Diodes across the motor switching paths
 - VCC, GND, two control inputs, and motor connections
-- PCB outline measures approximately 57.66 x 32.51 mm
+- PCB outline measures approximately 57.7 x 32.5 mm
 
 ## Schematic and PCB
 
